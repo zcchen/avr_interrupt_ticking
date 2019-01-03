@@ -25,7 +25,7 @@ PORT_NUM        = /dev/ttyACM0
 # Code Setting
 BUILD_DIR       = build
 SRC_DIR         = src
-HEAD_DIR        = include
+HEAD_DIR        = inc
 TEST_DIR        = tests
 
 PRG_SOURCE      = $(SRC_DIR)/$(PRG).c
